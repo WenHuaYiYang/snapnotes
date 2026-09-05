@@ -23,34 +23,51 @@
     {
       "title": "安卓同步器下载",
       "url": "https://snapnotes.dpdns.org",
-      "icon": ""
+      "icon": "AndroidLogo"
     },
     {
       "title": "爱发电",
       "url": "https://ifdian.net/a/snapnotes",
-      "icon": ""
+      "icon": "Link"
     }
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.whyy.snapnotes.release.1.0.1_watch.rpk"
+      "version": "1.0.1",
+      "file_name": "downloads/com.whyy.snapnotes.release.1.0.1-watch.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "修复某些机型键盘显示问题，去除日文输入。"
+        }
+      ]
     },
     "xmrw5xring": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.whyy.snapnotes.release.1.0.1_watch.rpk"
+      "version": "1.0.1",
+      "file_name": "downloads/com.whyy.snapnotes.release.1.0.1-watch.rpk",
+      "versionCode": 2
     },
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.whyy.snapnotes.release.1.0.1_watch.rpk"
+      "version": "1.0.1",
+      "file_name": "downloads/com.whyy.snapnotes.release.1.0.1-watch.rpk",
+      "versionCode": 2
     },
     "xmb9p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.whyy.snapnotes.release.1.0.1_band_pro.rpk"
+      "version": "1.0.1",
+      "file_name": "downloads/com.whyy.snapnotes.release.1.0.1-band-pro.rpk",
+      "versionCode": 2
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/com.whyy.snapnotes.release.1.0.1_band_pro.rpk"
+      "version": "1.0.1",
+      "file_name": "downloads/com.whyy.snapnotes.release.1.0.1-band-pro.rpk",
+      "versionCode": 2,
+      "updatelogs": [
+        {
+          "version": "1.0.1",
+          "content": "保留键盘弹出动画（仅10pro可用），去除日文输入。"
+        }
+      ]
     }
   },
   "ext": {}
